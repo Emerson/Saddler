@@ -1,0 +1,54 @@
+body {
+	background: #fffeee;
+	font-family: Arial;
+}
+
+.wrapper {
+	background: #ffffff;
+	border: 1px solid #f3f2da;
+	width: 800px;
+	padding: 30px;
+	margin: 80px auto;
+}
+
+table {
+	width: 600px;
+	display: block;
+	margin: 0 auto;
+}
+
+td {
+	padding: 10px;
+}
+
+td input {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	font-size: 16px;
+	font-style: italic;
+	color: #999;
+	position: relative;
+	left: 12px;
+}
+
+td.saddle {
+	background: #90e08d;
+}
+
+h1 {
+	padding-left: 110px;	
+}
+
+.controls {
+	padding: 15px 0 15px 110px;
+}
+#message {
+	position: relative;
+	left: 15px;
+	top: -4px;
+	color: #999999;
+	font-style: italic;
+	font-size: 14px;
+}
